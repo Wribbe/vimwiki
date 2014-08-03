@@ -1,0 +1,4 @@
+= Add aliases =
+
+    Use `git config --global alias.st status` to create
+    a global alias `st` for the command `status`.

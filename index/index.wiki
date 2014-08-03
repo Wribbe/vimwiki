@@ -2,6 +2,7 @@
     [[../software/autojump|autojump]] -- utility for quickly traversing file structure.
 
 = G =
+    [[../software/git|git]] -- revision software.
     [[../software/gpg|gpg]] -- encryption/decryption software.
 
 = S =
