@@ -1,0 +1,22 @@
+= Installation =
+
+    Se archwiki.
+
+= Usage =
+
+    == encryption ==
+
+        * Compress the folder/files with [[tar]].
+        * use the following command:
+            gpg --encrypt -o vimwiki.tar.gz.gpg vimwiki.tar.gz
+        * Specify the recipients, in this case, my self.
+        * Done.
+    
+    == decryption ==
+    
+        * Locate the compressed and encrypted folder.
+        * Use the command to decrypt it to vimwiki.tar.gz:
+            gpg --decrypt --output vimwiki.tar.gz vimwiki.tar.gz.gpg
+        * Uncompress the file using [[tar]].
+
+        

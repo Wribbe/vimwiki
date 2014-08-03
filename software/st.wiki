@@ -1,0 +1,12 @@
+
+= Configurations =
+
+    == vimwiki ==
+
+        Backspace wont work for st, so use:
+
+            :nmap <Leader>wb <Plug>VimwikiGoBackLink
+            
+        to be able to use <Leader>wb to get back to index.
+        (or put in ~/.vimrc to make permanent.
+    

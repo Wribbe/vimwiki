@@ -1,0 +1,6 @@
+= Configuration =
+
+== Use the n key instead of j ==
+
+    Under zsh, change the commands in ~/.autojump/etc/profile.d/autojump.zsh to
+    n instead of j, ex. jc() --> nc().

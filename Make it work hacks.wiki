@@ -1,0 +1,2 @@
+    * [[st]] -- Things related to the suckless terminal (st).
+    * [[vimwiki]] -- Things related to vimwiki.

@@ -1,0 +1,7 @@
+= My knowledge base =
+    * [[Projects]] -- Stuff I should be working on.
+    * [[Make it work hacks]] -- hacks to make stuff work
+    * [[software/vimwiki|vimwiki]]
+
+= index =
+    * [[index/index|index]] -- index of all entries.

@@ -1,0 +1,7 @@
+== encrypt and upload vimwiki ==
+        * [o] figure out how to encrypt vimwiki.
+            * [X] Install [[gpg]].
+            * [X] Compress wimwiki direcorty using [[tar]].
+            * [X] Encrypt using [[gpg]].
+            * [ ] Restore the encrypted wiki.
+            * [ ] Find a place to upload it.

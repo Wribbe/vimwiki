@@ -1,0 +1,11 @@
+= A =
+    [[../software/autojump|autojump]] -- utility for quickly traversing file structure.
+
+= G =
+    [[../software/gpg|gpg]] -- encryption/decryption software.
+
+= S =
+    [[../software/st|st]] -- suckless terminal.
+
+= T =
+    [[../software/tar|tar]] -- compress and uncompress files.

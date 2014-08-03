@@ -1,0 +1,7 @@
+= How to compress vimwiki folder =
+
+    tar -czf vimwiki.tar.gz vimwiki
+
+= How to uncompress vimwiki folder =
+
+    tar -xzvf vimwiki.tar.gz
