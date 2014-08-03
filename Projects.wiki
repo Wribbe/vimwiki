@@ -1,10 +1,10 @@
 = Stuff I should be be working on =
 
     == More important stuff ==
-    
+
     == Not really that important stuff ==
-        * [ ] [[tasks/encrypt and upload vimwiki|Encrypt and upload vimwikiw]].
         * [ ] [[tasks/get uzbl-git to work|get git-uzbl to work]].
+        * [X] [[tasks/encrypt and upload vimwiki|Encrypt and upload vimwikiw]].
         * [X] make [[autojump]] work with the n-key.
 
     == Info that should be in wiki ==

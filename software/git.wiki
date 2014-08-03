@@ -2,3 +2,18 @@
 
     Use `git config --global alias.st status` to create
     a global alias `st` for the command `status`.
+
+= Use push simple =
+
+    Use `git config --global push.default simple` to use simple.
+
+    Difference between simple and matching:
+        https://github.com/radegast/miroadamy-dot-com/wiki/Difference-between-matching-and-simple---Git-push
+
+= Add repository =
+ 
+    * [X] add vimwiki repository to github
+        * [X] create the vimwiki repository through the github homepage.
+        * [X] use command: `git remote add origin https://github.com/wribbe/vimwiki.git` to add
+              github repository.
+        * [X] push to github using `push -u origin master`
