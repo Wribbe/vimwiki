@@ -21,3 +21,6 @@
 = Get diff in commit message =
 
     Can you get the diff --staged inside the commit message (as a comment)?
+    maybe something here:
+        * http://stackoverflow.com/questions/3966714/how-can-i-change-the-default-comments-in-the-git-commit-message#3967136
+        * 
