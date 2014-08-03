@@ -1,7 +1,7 @@
 = Strip trailing whitespace =
 
     Apply the following to your vimrc:
-    
+
         fun! <SID>StripTrailingWhitespaces()
             let l = line(".")
             let c = col(".")
@@ -10,4 +10,3 @@
         endfun
 
         autocmd FileType * :call <SID>StripTrailingWhitespaces()
-                
