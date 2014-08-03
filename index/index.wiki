@@ -5,6 +5,9 @@
     [[../software/git|git]] -- revision software.
     [[../software/gpg|gpg]] -- encryption/decryption software.
 
+= P =
+    [[../software/pacman|pacman]] -- package installer for ArchLinux.
+
 = S =
     [[../software/st|st]] -- suckless terminal.
 

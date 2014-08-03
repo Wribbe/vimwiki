@@ -1,0 +1,8 @@
+= pacman - Archlinux package installer =
+
+== remove packages ==
+
+    To remove a package and its dependencies which are not required by other
+    installed applications run:
+
+        # pacman -Rs package_name 
