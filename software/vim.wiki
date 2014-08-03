@@ -1,0 +1,13 @@
+= Strip trailing whitespace =
+
+    Apply the following to your vimrc:
+    
+        fun! <SID>StripTrailingWhitespaces()
+            let l = line(".")
+            let c = col(".")
+            %s/\s\+$//e
+            call cursor(l, c)
+        endfun
+
+        autocmd FileType * :call <SID>StripTrailingWhitespaces()
+                

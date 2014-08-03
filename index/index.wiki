@@ -9,3 +9,6 @@
 
 = T =
     [[../software/tar|tar]] -- compress and uncompress files.
+
+= V =
+    [[../software/vim|vim]] -- text editor.
