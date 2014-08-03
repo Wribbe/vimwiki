@@ -11,9 +11,13 @@
         https://github.com/radegast/miroadamy-dot-com/wiki/Difference-between-matching-and-simple---Git-push
 
 = Add repository =
- 
+
     * [X] add vimwiki repository to github
         * [X] create the vimwiki repository through the github homepage.
         * [X] use command: `git remote add origin https://github.com/wribbe/vimwiki.git` to add
               github repository.
         * [X] push to github using `push -u origin master`
+
+= Get diff in commit message =
+
+    Can you get the diff --staged inside the commit message (as a comment)?
