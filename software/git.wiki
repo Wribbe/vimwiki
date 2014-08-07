@@ -18,9 +18,18 @@
               github repository.
         * [X] push to github using `push -u origin master`
 
+= Split an old commit (not pushed) =
+
+    * Interactive rebase `git rebase -i "something"` and mark the commit for edit e or edit.
+    * Reset file structure to the state before the commit with `git reset HEAD~`, do *NOT* use --hard.
+    * Choose which hunks to add with `git add -up`.
+    * Commit to different commmits.
+    * Resume with `git rebase --continue`.
+
 = Get diff in commit message =
 
     Can you get the diff --staged inside the commit message (as a comment)?
     maybe something here:
         * http://stackoverflow.com/questions/3966714/how-can-i-change-the-default-comments-in-the-git-commit-message#3967136
         * 
+
