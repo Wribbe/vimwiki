@@ -1,0 +1,18 @@
+= Append new directory to PATH =
+
+  export PATH=$PATH:/home/stefeng/bin
+
+= Get current git and pre-* branch to clipboard =
+
+  #get current git branch-name to clipboard
+  alias gb="git rev-parse --abbrev-ref HEAD | xclip"
+  
+  #get current git branch with 'pre-' prefix to clipboard
+  alias gpb="git rev-parse --abbrev-ref HEAD | python ~/bin/add_pre.py | xclip"
+  
+  contents of add_pre.py:
+  
+      import sys
+
+      for line in sys.stdin.readlines():
+          print "pre-{}".format(line)

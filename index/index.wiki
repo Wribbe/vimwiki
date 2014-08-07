@@ -19,3 +19,6 @@
 
 = V =
     [[../software/vim|vim]] -- text editor.
+
+= Z =
+    [[../software/zsh|zsh]] -- shell emulator.
