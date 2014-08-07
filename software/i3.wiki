@@ -1,0 +1,6 @@
+= Rotate second screen and put it to the left of the other one =
+
+  Put the following in your ~/.i3/config file:
+  
+    exec xrandr --output VGA-0 --auto --left-of -DVI-D-0 --rotate left
+
