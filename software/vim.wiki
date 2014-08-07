@@ -10,3 +10,7 @@
         endfun
 
         autocmd FileType * :call <SID>StripTrailingWhitespaces()
+
+= Convert from dos to linux line endings =
+
+    set ff=unix (this gets rid of the [dos])
