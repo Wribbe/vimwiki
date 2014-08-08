@@ -1,0 +1,6 @@
+= Start with no tab bar =
+
+  inside ~/.i3/config:
+  
+    `bindsym $mod+Shift+Return exec dwb -x toggle_tabbar`
+

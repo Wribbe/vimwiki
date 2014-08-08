@@ -1,6 +1,9 @@
 = A =
     [[../software/autojump|autojump]] -- utility for quickly traversing file structure.
 
+= D =
+    [[../software/dwb|dwb]] -- lightweight web browser.
+
 = G =
     [[../software/git|git]] -- revision software.
     [[../software/gpg|gpg]] -- encryption/decryption software.
